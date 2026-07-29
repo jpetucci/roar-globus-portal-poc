@@ -17,8 +17,18 @@
           "client_id": "ba8ecb76-58be-41c6-baa0-0b9bf38d82aa"
       },
         "transfer": {
-          "collection_id": "26adab6d-5512-4ff3-b499-a2fe5ef1c1ca",
-          "path": "/"
+          "collections": [
+            {
+              "collection_id": "26adab6d-5512-4ff3-b499-a2fe5ef1c1ca",
+              "path": "/",
+              "label": "Personal Work Test Data"
+            },
+            {
+              "collection_id": "ce53dbb4-3261-45f3-a989-ca2f30567c94",
+              "path": "/",
+              "label": "RISE Group Test Data"
+            }
+          ]
         }
       }
     }
